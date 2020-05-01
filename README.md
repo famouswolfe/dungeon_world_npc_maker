@@ -1,11 +1,11 @@
 # dungeon_world_npc_maker
 A simple CLI-driven NPC generator for Dungeon World using Node.js
 
-Requirements:
+### Requirements:
 
 You must have Node.js installed (I recommend using the latest LTS version) as well as access to a command line or terminal. Mac and Linux users already have a terminal built-in to their respective OSes. Windows users have several different options available such as Powershell, Git Bash, Windows Subsystem for Linux (Windows 10 only), the Windows command prompt, or even the terminal within VS Code.
 
-Usage instructions:
+### Usage instructions:
 
 Simply clone/download the repo and unzip it. Open up your terminal/command line etc and navigate to the directory that contains the unzipped folder. Once there, run the following command:
 

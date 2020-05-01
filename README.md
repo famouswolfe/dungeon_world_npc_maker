@@ -12,3 +12,5 @@ Simply clone/download the repo and unzip it. Open up your terminal/command line 
 The console should output two lines of text, one being an Instinct and the other being a Knack. Both are randomly selected from their respective tables so there's 10,000 distinct combinations to create unique and flavorful NPCs for your Dungeon World (or other fantasy based) campaign. Once you have an Instinct and a Knack you have a framework upon which you can build and flesh out your NPC as per the suggestions in the Dungeon World core rulebook (see pages 390-393). You can execute the command as many times as you wish and you'll get a distinct and unique combination each and every time. Enjoy!
 
 ![image of terminal](https://github.com/famouswolfe/dungeon_world_npc_maker/issues/1)
+
+![image of terminal](https://user-images.githubusercontent.com/28721401/80824387-97ba9280-8b9b-11ea-988d-047943bf81ca.png)
